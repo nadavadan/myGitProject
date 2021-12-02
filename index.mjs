@@ -1,2 +1,1 @@
-console.log("working");
-"bug fixed"
+console.log("last changes");
